@@ -1,7 +1,8 @@
 package com.androiddevs.runningappyt.other
 
 import android.Manifest
-import android.content.Context Finish Rimport android.location.Location
+import android.content.Context
+import android.location.Location
 import android.os.Build
 import com.androiddevs.runningappyt.services.Polyline
 import pub.devrel.easypermissions.EasyPermissions
